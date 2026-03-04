@@ -1,0 +1,17 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Physician",
+    "name": "Dr. Jane Smith",
+    "medicalSpecialty": "Cardiology",
+    "affiliation": {
+        "@type": "MedicalOrganization",
+        "name": "HealthCare Plus Solutions"
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "123 Medical Plaza",
+        "addressLocality": "New York",
+        "addressRegion": "NY"
+    },
+    "telephone": "+1-555-0123"
+}

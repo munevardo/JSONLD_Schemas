@@ -1,0 +1,18 @@
+{
+    "@context": "https://schema.org",
+    "@type": "MedicalOrganization",
+    "name": "HealthCare Plus Solutions",
+    "url": "https://www.healthcareplus.com",
+    "logo": "https://www.healthcareplus.com/logo.png",
+    "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+1-800-555-0199",
+        "contactType": "customer service",
+        "areaServed": "US",
+        "availableLanguage": "en"
+    },
+    "sameAs": [
+        "https://www.facebook.com/healthcareplus",
+        "https://www.linkedin.com/company/healthcareplus"
+    ]
+}

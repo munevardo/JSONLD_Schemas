@@ -1,0 +1,32 @@
+{
+    "@context": "https://schema.org",
+    "@type": "MedicalClinic",
+    "name": "HealthCare Plus Downtown Clinic",
+    "image": "https://www.healthcareplus.com/clinic-front.jpg",
+    "@id": "https://www.healthcareplus.com/downtown-clinic",
+    "url": "https://www.healthcareplus.com/locations/downtown",
+    "telephone": "+1-555-0123",
+    "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "123 Medical Plaza",
+        "addressLocality": "New York",
+        "addressRegion": "NY",
+        "postalCode": "10001",
+        "addressCountry": "US"
+    },
+    "openingHoursSpecification": [
+        {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday",
+                "Friday"
+            ],
+            "opens": "08:00",
+            "closes": "18:00"
+        }
+    ],
+    "medicalSpecialty": "FamilyHealth"
+}
